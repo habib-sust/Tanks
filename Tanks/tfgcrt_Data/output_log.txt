@@ -16,13 +16,13 @@ Platform assembly: C:\Users\Habibur\Desktop\Tanks\Tanks\tfgcrt_Data\Managed\Unit
 Loading C:\Users\Habibur\Desktop\Tanks\Tanks\tfgcrt_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\Habibur\Desktop\Tanks\Tanks\tfgcrt_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\Habibur\Desktop\Tanks\Tanks\tfgcrt_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.758 seconds
+- Completed reload, in  0.346 seconds
 Platform assembly: C:\Users\Habibur\Desktop\Tanks\Tanks\tfgcrt_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Habibur\Desktop\Tanks\Tanks\tfgcrt_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 6.373479 ms
+UnloadTime: 6.387164 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 248c -> priority: 1 
+  Thread -> id: 238 -> priority: 1 
