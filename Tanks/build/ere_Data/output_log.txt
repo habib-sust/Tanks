@@ -1,0 +1,49 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     848 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Habibur\Desktop\Tanks\Tanks\build\ere_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Habibur\Desktop\Tanks\Tanks\build\ere_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Habibur\Desktop\Tanks\Tanks\build\ere_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Habibur\Desktop\Tanks\Tanks\build\ere_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Habibur\Desktop\Tanks\Tanks\build\ere_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Habibur\Desktop\Tanks\Tanks\build\ere_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Habibur\Desktop\Tanks\Tanks\build\ere_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Habibur\Desktop\Tanks\Tanks\build\ere_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Habibur\Desktop\Tanks\Tanks\build\ere_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Habibur\Desktop\Tanks\Tanks\build\ere_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.195 seconds
+Platform assembly: C:\Users\Habibur\Desktop\Tanks\Tanks\build\ere_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Habibur\Desktop\Tanks\Tanks\build\ere_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 8.088816 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 359c -> priority: 1 
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.066010 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1569.
+Total: 3.175452 ms (FindLiveObjects: 0.189528 ms CreateObjectMapping: 0.158054 ms MarkObjects: 2.798448 ms  DeleteObjects: 0.027368 ms)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777}
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.603381 ms
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 1016.
+Total: 4.322884 ms (FindLiveObjects: 0.123159 ms CreateObjectMapping: 0.113580 ms MarkObjects: 2.365339 ms  DeleteObjects: 1.719438 ms)
+
